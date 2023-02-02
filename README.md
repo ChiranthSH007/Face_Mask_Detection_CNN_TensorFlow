@@ -1,6 +1,6 @@
 # FaceMaskDetection
 
-Neural Network Algorithm to detect people wearing face masks or not.
+Neural Network Algorithm to detect people wearing face masks or not and uses caffemodel to detect faces.
 
 # Links for the project
 
